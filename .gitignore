@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Generated notebook exports and local reports
+outputs/
+*.html
+
+# Local OS/editor noise
+.DS_Store
+Thumbs.db
